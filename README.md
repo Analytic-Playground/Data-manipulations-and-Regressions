@@ -7,4 +7,10 @@ Project in which I analyze various criminal and economic data gathered in 2 year
 
 'Functions' is a notebook to contain the functions used in the main notebook
 
-All other files in this repository are data files downloaded from the Bureau of Labor Statistics and the Inter-University Consortium for Political and Social Research
+All other files in this repository are data files downloaded from the Bureau of Labor Statistics and the Inter-University Consortium for Political and Social Research. 
+
+Links to Data
+--------------
+BLS: https://www.bls.gov/cew/datatoc.htm
+
+ICPSR: https://www.bls.gov/cew/datatoc.htm (series name: "Uniform Crime Reporting Program Data: County-Level Detailed Arrest and Offense Data, United States, yyyy")
