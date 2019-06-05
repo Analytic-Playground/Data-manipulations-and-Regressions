@@ -1,5 +1,5 @@
 # Data-manipulations-and-Regressions
-Project in which I analyze various criminal and economic data gathered in 2 year intervals between 2010 and 2016. 
+Project in which I analyze various criminal and economic data gathered from 2009, 2010, 2012, 2014, and 2016. 
 
 'Github - min' is the main notebook
 
